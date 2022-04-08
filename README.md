@@ -1,10 +1,6 @@
 # facebookui
 
-![Screenshot_20220408_143939](https://user-images.githubusercontent.com/62395780/162438422-8943fb50-07e5-43de-9c49-b5dcef3259a8.png)
 
-
-
-![Screenshot_20220408_144028](https://user-images.githubusercontent.com/62395780/162438458-e24f0a4b-6e62-49f6-a683-7f43c1f2b4e2.png)
 
 <table>
 
