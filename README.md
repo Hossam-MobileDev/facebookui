@@ -1,16 +1,17 @@
 # facebookui
 
-A new Flutter project.
+![Screenshot_20220408_143939](https://user-images.githubusercontent.com/62395780/162438422-8943fb50-07e5-43de-9c49-b5dcef3259a8.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20220408_144028](https://user-images.githubusercontent.com/62395780/162438458-e24f0a4b-6e62-49f6-a683-7f43c1f2b4e2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<table>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   <tr>
+    <td><img src="https://user-images.githubusercontent.com/62395780/162438458-e24f0a4b-6e62-49f6-a683-7f43c1f2b4e2.png" width=300 height=600></td>
+    <td><img src="https://user-images.githubusercontent.com/62395780/162438422-8943fb50-07e5-43de-9c49-b5dcef3259a8.png" width=300 height=600></td>
+ 
+  </tr>
+  
+</table>
